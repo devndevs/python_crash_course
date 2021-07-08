@@ -65,5 +65,3 @@ print(f"My favorite number is {favorite_number}.")
 # 2-11
 
 import this
-
-print("hopefully I can save this")
